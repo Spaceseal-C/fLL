@@ -1,0 +1,5 @@
+alma;apple
+egy;one
+kettő;two
+harom;three
+sok;lot of
